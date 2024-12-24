@@ -1,4 +1,4 @@
-Currency Converter
+#Currency Converter
 
 A lightweight and responsive web application that allows users to convert currencies in real-time using up-to-date exchange rates. Built with React and powered by Vite, the application offers a user-friendly interface and accurate currency conversion.
 🌟 Features
@@ -10,7 +10,7 @@ A lightweight and responsive web application that allows users to convert curren
 
 🚀 Live Demo
 
-A live version of the application is available at: Live Demo Link
+A live version of the application is available at: (https://currency-converter-sigma-steel.vercel.app/)
 🛠️ Installation
 Prerequisites
 
